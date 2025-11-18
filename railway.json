@@ -3,5 +3,5 @@
   "build": {
     "builder": "nixpacks"
   },
-  "start": "python -m telethon bot.py"
+  "start": "python bot.py"
 }
